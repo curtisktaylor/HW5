@@ -15,7 +15,7 @@ dates = []
 descriptions = []
 
 nlp_eng = spacy.load("en_core_web_lg")
-newsapi = NewsApiClient (api_key='2751e48132a44f158adf3ac5c6ff1630')
+newsapi = NewsApiClient (api_key='xxxxxxxx')
 
 articles = []
 results = []
